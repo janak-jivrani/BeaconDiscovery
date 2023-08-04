@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beacon Discovery</string>
+    <string name="no_beacons_detected">No beacons detected</string>
+    <string name="outside_of_region_no_beacons_detected">Outside of the beacon region — no beacons detected</string>
+    <string name="inside_beacon_region">Inside the beacon region.</string>
+    <string name="randing_enabled_count_beacon_deletected">Ranging enabled: %s beacon(s) detected</string>
+    <string name="stop_ranging">Stop Ranging</string>
+    <string name="start_ranging">Start Ranging</string>
+    <string name="ranging_enabled">Ranging enabled — awaiting first callback</string>
+    <string name="ranging_disabled">Ranging disabled — no beacons detected</string>
+    <string name="beacon_monitoring_started">Beacon monitoring started.</string>
+    <string name="beacon_monitoring_started_msg">You will see a dialog if a beacon is detected, and another if beacons then stop being detected.</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="monitoring_stopped">Beacon monitoring stopped.</string>
+    <string name="monitoring_stopped_msg">You will no longer see dialogs when beacons start/stop being detected.</string>
+    <string name="beacons_detected">Beacons detected</string>
+    <string name="beacons_detected_msg">didEnterRegionEvent has fired</string>
+    <string name="disable_monitoring">Disable Monitoring</string>
+    <string name="disable_ranging">Disable Ranging</string>
+    <string name="_0_visible_beacons">0 visible beacons:</string>
+</resources>
