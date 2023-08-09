@@ -19,4 +19,14 @@
     <string name="disable_monitoring">Disable Monitoring</string>
     <string name="disable_ranging">Disable Ranging</string>
     <string name="_0_visible_beacons">0 visible beacons:</string>
+
+    <string-array name="time">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
 </resources>

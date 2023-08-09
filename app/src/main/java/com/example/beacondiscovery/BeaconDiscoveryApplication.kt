@@ -6,6 +6,7 @@ import android.content.Intent
 import android.util.Log
 import androidx.core.app.NotificationCompat
 import androidx.lifecycle.Observer
+import com.example.beacondiscovery.ui.home.MainActivity
 import org.altbeacon.beacon.*
 
 class BeaconDiscoveryApplication: Application() {
